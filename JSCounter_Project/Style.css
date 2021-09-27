@@ -1,0 +1,18 @@
+.container {
+  margin: auto;
+  text-align: center;
+  position: relative;
+  height: 500px;
+  font-size: 100%;
+  color: blueviolet;
+}
+#value {
+  height: 100px;
+  width: 200px;
+  text-align: center;
+  font-size: 800%;
+}
+.btn-container {
+  border-radius: 25px;
+  font-size: 50%;
+}
